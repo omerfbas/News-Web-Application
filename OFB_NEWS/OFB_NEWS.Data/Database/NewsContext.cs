@@ -14,7 +14,11 @@ namespace OFB_NEWS.Data.Database
         public NewsContext()
             : base("defaultConnection")
         {
+            //alternatif 
+            //@ isareti burada ozel karakterleri kullanmamizi sagliyor.
+            //Database.Connection.ConnectionString = @"Server=OMER\MSSQLSERVER01;Database=NewsDB;Trusted_connection=true;";
 
+            var id = System.Data.Entity.SqlServer.SqlProviderServices.Instance;
         }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
