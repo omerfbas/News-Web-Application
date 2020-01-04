@@ -16,6 +16,5 @@ namespace OFB_NEWS.Services.Service
             _unitOfWork = new UnitOfWork();
         }
 
-
     }
 }
