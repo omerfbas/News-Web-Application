@@ -10,6 +10,6 @@ namespace OFB_NEWS.Services.Service
     public class Test
     {
         Service service = new Service();
-        private List<Category> asd = service.GetRepository<Category>().GetAll();
+        //private List<Category> asd = service.GetRepository<Category>().GetAll();
     }
 }
