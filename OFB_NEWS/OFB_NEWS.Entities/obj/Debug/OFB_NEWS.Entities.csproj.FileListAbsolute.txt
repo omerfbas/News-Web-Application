@@ -1,0 +1,5 @@
+C:\Users\omer_\Desktop\CENG\REPOSITORIES\omerfbas\News-Web-Application\OFB_NEWS\OFB_NEWS.Entities\bin\Debug\OFB_NEWS.Entities.dll
+C:\Users\omer_\Desktop\CENG\REPOSITORIES\omerfbas\News-Web-Application\OFB_NEWS\OFB_NEWS.Entities\bin\Debug\OFB_NEWS.Entities.pdb
+C:\Users\omer_\Desktop\CENG\REPOSITORIES\omerfbas\News-Web-Application\OFB_NEWS\OFB_NEWS.Entities\obj\Debug\OFB_NEWS.Entities.csprojAssemblyReference.cache
+C:\Users\omer_\Desktop\CENG\REPOSITORIES\omerfbas\News-Web-Application\OFB_NEWS\OFB_NEWS.Entities\obj\Debug\OFB_NEWS.Entities.dll
+C:\Users\omer_\Desktop\CENG\REPOSITORIES\omerfbas\News-Web-Application\OFB_NEWS\OFB_NEWS.Entities\obj\Debug\OFB_NEWS.Entities.pdb

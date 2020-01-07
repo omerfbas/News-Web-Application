@@ -1,0 +1,15 @@
+C:\Users\omer_\Desktop\CENG\REPOSITORIES\omerfbas\News-Web-Application\OFB_NEWS\OFB_NEWS.Data\bin\Debug\OFB_NEWS.Data.dll.config
+C:\Users\omer_\Desktop\CENG\REPOSITORIES\omerfbas\News-Web-Application\OFB_NEWS\OFB_NEWS.Data\bin\Debug\OFB_NEWS.Data.dll
+C:\Users\omer_\Desktop\CENG\REPOSITORIES\omerfbas\News-Web-Application\OFB_NEWS\OFB_NEWS.Data\bin\Debug\OFB_NEWS.Data.pdb
+C:\Users\omer_\Desktop\CENG\REPOSITORIES\omerfbas\News-Web-Application\OFB_NEWS\OFB_NEWS.Data\bin\Debug\EntityFramework.dll
+C:\Users\omer_\Desktop\CENG\REPOSITORIES\omerfbas\News-Web-Application\OFB_NEWS\OFB_NEWS.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\omer_\Desktop\CENG\REPOSITORIES\omerfbas\News-Web-Application\OFB_NEWS\OFB_NEWS.Data\bin\Debug\OFB_NEWS.Entities.dll
+C:\Users\omer_\Desktop\CENG\REPOSITORIES\omerfbas\News-Web-Application\OFB_NEWS\OFB_NEWS.Data\bin\Debug\OFB_NEWS.Entities.pdb
+C:\Users\omer_\Desktop\CENG\REPOSITORIES\omerfbas\News-Web-Application\OFB_NEWS\OFB_NEWS.Data\bin\Debug\EntityFramework.xml
+C:\Users\omer_\Desktop\CENG\REPOSITORIES\omerfbas\News-Web-Application\OFB_NEWS\OFB_NEWS.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\omer_\Desktop\CENG\REPOSITORIES\omerfbas\News-Web-Application\OFB_NEWS\OFB_NEWS.Data\obj\Debug\OFB_NEWS.Data.csprojAssemblyReference.cache
+C:\Users\omer_\Desktop\CENG\REPOSITORIES\omerfbas\News-Web-Application\OFB_NEWS\OFB_NEWS.Data\obj\Debug\OFB_NEWS.Data.csproj.CopyComplete
+C:\Users\omer_\Desktop\CENG\REPOSITORIES\omerfbas\News-Web-Application\OFB_NEWS\OFB_NEWS.Data\obj\Debug\OFB_NEWS.Data.dll
+C:\Users\omer_\Desktop\CENG\REPOSITORIES\omerfbas\News-Web-Application\OFB_NEWS\OFB_NEWS.Data\obj\Debug\OFB_NEWS.Data.pdb
+C:\Users\omer_\Desktop\CENG\REPOSITORIES\omerfbas\News-Web-Application\OFB_NEWS\OFB_NEWS.Data\obj\Debug\OFB_NEWS.Data.Migrations.first.resources
+C:\Users\omer_\Desktop\CENG\REPOSITORIES\omerfbas\News-Web-Application\OFB_NEWS\OFB_NEWS.Data\obj\Debug\OFB_NEWS.Data.csproj.GenerateResource.cache
