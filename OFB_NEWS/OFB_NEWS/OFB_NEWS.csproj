@@ -129,10 +129,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\CategoryController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\LoginController.cs" />
+    <Compile Include="Controllers\NewsController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\NewsDetailModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -161,7 +165,15 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Models\" />
+    <Folder Include="Views\Category\" />
+    <Folder Include="Views\Login\" />
+    <Folder Include="Views\News\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\OFB_NEWS.Entities\OFB_NEWS.Entities.csproj">
+      <Project>{2164F92E-399D-466D-BD0A-8EC27B9672DF}</Project>
+      <Name>OFB_NEWS.Entities</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
