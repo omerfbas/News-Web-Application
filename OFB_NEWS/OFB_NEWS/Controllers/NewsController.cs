@@ -13,5 +13,11 @@ namespace OFB_NEWS.Controllers
         {
             return View();
         }
+
+        public PartialViewResult Newsbreak()
+        {
+            //TODO
+            return PartialView();
+        }
     }
 }
