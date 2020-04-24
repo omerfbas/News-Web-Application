@@ -49,6 +49,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Database\NewsContext.cs" />
+    <Compile Include="Managers\BaseManager.cs" />
+    <Compile Include="Managers\CategoryManager.cs" />
+    <Compile Include="Managers\CommentManager.cs" />
+    <Compile Include="Managers\GalleryManager.cs" />
+    <Compile Include="Managers\NewsManager.cs" />
+    <Compile Include="Managers\UserManager.cs" />
     <Compile Include="Mappings\CategoryMappings.cs" />
     <Compile Include="Mappings\CommentMappings.cs" />
     <Compile Include="Mappings\GalleryMappings.cs" />
