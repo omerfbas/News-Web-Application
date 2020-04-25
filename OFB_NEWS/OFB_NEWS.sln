@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OFB_NEWS.Services", "OFB_NE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OFB_NEWS", "OFB_NEWS\OFB_NEWS.csproj", "{DC959DA7-C2D7-4426-B599-7DEB56333A21}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OFB_NEWS.Business", "OFB_NEWS.Business\OFB_NEWS.Business.csproj", "{D7F80E4E-F84E-45BF-813D-93FB6251AE00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{DC959DA7-C2D7-4426-B599-7DEB56333A21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC959DA7-C2D7-4426-B599-7DEB56333A21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC959DA7-C2D7-4426-B599-7DEB56333A21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7F80E4E-F84E-45BF-813D-93FB6251AE00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7F80E4E-F84E-45BF-813D-93FB6251AE00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7F80E4E-F84E-45BF-813D-93FB6251AE00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7F80E4E-F84E-45BF-813D-93FB6251AE00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
