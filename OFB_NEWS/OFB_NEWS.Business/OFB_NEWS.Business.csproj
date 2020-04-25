@@ -42,12 +42,21 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controllers\BaseController.cs" />
+    <Compile Include="Controllers\CategoryController.cs" />
+    <Compile Include="Controllers\CommentController.cs" />
+    <Compile Include="Controllers\GalleryController.cs" />
+    <Compile Include="Controllers\NewsController.cs" />
+    <Compile Include="Controllers\UserController.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\OFB_NEWS.Data\OFB_NEWS.Data.csproj">
       <Project>{1B821E75-A4B7-44AD-8CD9-279F5E35A437}</Project>
       <Name>OFB_NEWS.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OFB_NEWS.Entities\OFB_NEWS.Entities.csproj">
+      <Project>{2164F92E-399D-466D-BD0A-8EC27B9672DF}</Project>
+      <Name>OFB_NEWS.Entities</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

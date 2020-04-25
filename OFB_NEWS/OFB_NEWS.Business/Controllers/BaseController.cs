@@ -15,15 +15,17 @@ namespace OFB_NEWS.Business.Controllers
         {
             manager = new BaseManager<TEntity>();
         }
+
         public void Add(TEntity entity)
         {
-
             manager.AddManager(entity);
         }
+
         public void Update(TEntity entity)
         {
             manager.UpdateManager(entity);
         }
+
         public void Delete(TEntity entity)
         {
             manager.DeleteIdManager(entity);
@@ -38,7 +40,6 @@ namespace OFB_NEWS.Business.Controllers
         {
             manager = new BaseManager<TEntity>();
             return manager.GetByIdManager(id);
-
         }
 
         public List<TEntity> GetAll()
