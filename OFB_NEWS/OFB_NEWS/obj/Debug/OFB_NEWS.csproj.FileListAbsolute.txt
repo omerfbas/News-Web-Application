@@ -69,3 +69,5 @@ C:\Users\omer_\Desktop\CENG\REPOSITORIES\omerfbas\News-Web-Application\OFB_NEWS\
 C:\Users\omer_\Desktop\CENG\REPOSITORIES\omerfbas\News-Web-Application\OFB_NEWS\OFB_NEWS\obj\Debug\OFB_NEWS.csproj.CopyComplete
 C:\Users\omer_\Desktop\CENG\REPOSITORIES\omerfbas\News-Web-Application\OFB_NEWS\OFB_NEWS\obj\Debug\OFB_NEWS.dll
 C:\Users\omer_\Desktop\CENG\REPOSITORIES\omerfbas\News-Web-Application\OFB_NEWS\OFB_NEWS\obj\Debug\OFB_NEWS.pdb
+C:\Users\omer_\Desktop\CENG\REPOSITORIES\omerfbas\News-Web-Application\OFB_NEWS\OFB_NEWS\bin\OFB_NEWS.Entities.dll
+C:\Users\omer_\Desktop\CENG\REPOSITORIES\omerfbas\News-Web-Application\OFB_NEWS\OFB_NEWS\bin\OFB_NEWS.Entities.pdb
